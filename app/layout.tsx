@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 const stackSans = Stack_Sans_Headline({
   variable: "--font-stack",
   subsets: ["latin"],
-  weight: ["300"],
+  weight: ["400"],
 });
 
 export const metadata: Metadata = {
